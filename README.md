@@ -2,9 +2,11 @@
 
 ## Info
 
+
+    CPU:i7-8700 GPU:RX580 SSD:SN750 SMBIOS:IMac 19.1
     
     Support macOS Mojave or newer
-
+    
     OpenCorePkg 0.5.4
     
     AppleALC 1.4.5
