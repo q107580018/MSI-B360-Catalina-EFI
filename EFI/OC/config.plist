@@ -8,6 +8,14 @@
 		<array>
 			<dict>
 				<key>Comment</key>
+				<string>SSDT-SB_PR00</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-SB_PR00.aml</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string>AWAC</string>
 				<key>Enabled</key>
 				<true/>
