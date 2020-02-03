@@ -20,3 +20,11 @@
     VirtualSMC 1.1.0
     
     WhateverGreen 1.3.6
+## changelog
+
+2020/02/03
+
+``` 
+1、替换SSDT-PMC.aml启用原生nvram功能
+```
+
