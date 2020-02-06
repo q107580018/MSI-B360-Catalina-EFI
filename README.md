@@ -33,6 +33,15 @@ WhateverGreen 1.3.6
 
 ## changelog
 
+2020/02/06
+
+```
+1、更新opencore 0.5.5
+2、添加DummyPowerManagement和TakeoffDelay选项
+```
+
+
+
 2020/02/05
 
 ```
