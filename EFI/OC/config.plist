@@ -364,6 +364,8 @@
 			<false/>
 			<key>CustomSMBIOSGuid</key>
 			<false/>
+			<key>IncreasePciBarSize</key>
+			<false/>
 			<key>DisableIoMapper</key>
 			<false/>
 			<key>DummyPowerManagement</key>
@@ -541,6 +543,8 @@
 				<string>fmm-computer-name</string>
 				<string>nvda_drv</string>
 				<string>prev-lang:kbd</string>
+				<string>efi-boot-device</string>
+				<string>efi-boot-device-data</string>
 			</array>
 		</dict>
 	</dict>
