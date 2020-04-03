@@ -6,7 +6,7 @@
 
 [https://github.com/q107580018/MSI-B360-Catalina-EFI/releases](https://github.com/q107580018/MSI-B360-Catalina-EFI/releases)
 
-
+## 该分支为测试使用，不稳定
 
 
 ## Info
