@@ -6,32 +6,35 @@
 
 [https://github.com/q107580018/MSI-B360-Catalina-EFI/releases](https://github.com/q107580018/MSI-B360-Catalina-EFI/releases)
 
-## 该分支为测试使用，不稳定
-
 
 ## Info
 
 ```
 CPU:i7-8700 GPU:RX580 SSD:SN750 SMBIOS:IMac 19.1
 
-Support 10.15.3
+Support 10.15.4
 
-OpenCorePkg 0.5.4
+OpenCorePkg 0.5.7
 
-AppleALC 1.4.5
+AppleALC 1.4.8
 
 IntelMausi 1.0.2
 
-Lilu 1.4.1
+Lilu 1.4.3
 
-USBInjectAll 0.7.1
+VirtualSMC 1.1.2
 
-VirtualSMC 1.1.0
-
-WhateverGreen 1.3.6
+WhateverGreen 1.3.8
 ```
 
 ## changelog
+2020/04/16
+```
+1、更新opencore 0.5.7
+2、修改config到适配0.5.7版本
+3、增加NVMEFix.kext驱动
+4、修改Driver文件
+```
 
 2020/03/20
 
