@@ -546,7 +546,7 @@
 				<key>Comment</key>
 				<string>Recovery</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>Name</key>
 				<string>Recovery</string>
 				<key>Path</key>
