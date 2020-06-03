@@ -14,20 +14,36 @@ CPU:i7-8700 GPU:RX580 SSD:SN750 SMBIOS:IMac 19.1
 
 Support 10.15.5
 
-OpenCorePkg 0.5.8
+OpenCorePkg 0.5.9
 
-AppleALC 1.4.9
+AppleALC 1.5.0
 
-IntelMausi 1.0.2
+IntelMausi 1.0.3
 
-Lilu 1.4.4
+Lilu 1.4.5
 
-VirtualSMC 1.1.3
+VirtualSMC 1.1.4
 
-WhateverGreen 1.3.9
+WhateverGreen 1.4.0
+
+UsbPort
 ```
 
 ## changelog
+2020/06/03
+
+```
+1、升级AppleALC到1.5.0
+2、升级IntelMausiEthernet到1.0.3
+3、升级Lilu到1.4.5
+4、升级VirtualSMC到1.1.4
+5、升级WhateverGreen到1.4.0
+6、config里添加NVMeFix驱动
+7、升级OpenCore到0.5.9
+8、修改config到适配0.5.9版本
+```
+
+
 2020/05/30
 
 ```
