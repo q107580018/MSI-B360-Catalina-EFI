@@ -30,6 +30,10 @@ UsbPort
 ```
 
 ## changelog
+```
+1、添加USBPower驱动
+```
+
 2020/06/03
 
 ```
