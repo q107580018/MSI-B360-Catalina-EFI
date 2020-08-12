@@ -12,26 +12,37 @@
 ```
 CPU:i7-8700 GPU:RX580 SSD:SN750 SMBIOS:IMac 19.1
 
-Support 10.15.5
+Support 10.15.6
 
-OpenCorePkg 0.5.9
+OpenCorePkg 0.6.0
 
-AppleALC 1.5.0
+AppleALC 1.5.1
 
 IntelMausi 1.0.3
 
-Lilu 1.4.5
+Lilu 1.4.6
 
-VirtualSMC 1.1.4
+VirtualSMC 1.1.5
 
-WhateverGreen 1.4.0
+WhateverGreen 1.4.1
+
+UsbPower
 
 UsbPort
 ```
 
 ## changelog
+
+2020/08/12
+
 ```
-1、添加USBPower驱动
+1、升级OpenCore到0.6.0
+2、升级AppleALC到1.5.1
+3、升级Lilu到1.4.6
+4、升级VirtualSMC到1.1.5
+5、升级WhateverGreen到1.4.1
+6、升级NVMeFix到1.0.3
+7、添加USBPower驱动
 ```
 
 2020/06/03
@@ -47,16 +58,11 @@ UsbPort
 8、修改config到适配0.5.9版本
 ```
 
-
 2020/05/30
 
 ```
 1、开启KASLR内存注入
 ```
-
-
-
-
 
 2020/05/28
 
