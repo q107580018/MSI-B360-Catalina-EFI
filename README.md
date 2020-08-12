@@ -43,6 +43,7 @@ UsbPort
 5、升级WhateverGreen到1.4.1
 6、升级NVMeFix到1.0.3
 7、添加USBPower驱动
+8、删除ApfsDriverLoader.efi，使用内置Apfs
 ```
 
 2020/06/03
