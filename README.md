@@ -12,19 +12,19 @@
 ```
 CPU:i7-8700 GPU:RX580 SSD:SN750 SMBIOS:IMac 19.1
 
-Support 10.15.6
+Support 10.15.7
 
-OpenCorePkg 0.6.0
+OpenCorePkg 0.6.1
 
-AppleALC 1.5.1
+AppleALC 1.5.2
 
 IntelMausi 1.0.3
 
-Lilu 1.4.6
+Lilu 1.4.7
 
-VirtualSMC 1.1.5
+VirtualSMC 1.1.6
 
-WhateverGreen 1.4.1
+WhateverGreen 1.4.2
 
 UsbPower
 
@@ -32,6 +32,14 @@ UsbPort
 ```
 
 ## changelog
+
+2020/09/28
+
+```
+1、升级OpenCore到0.6.1
+2、升级各Kext到最新版本
+3、更新Config到适配0.6.1版本
+```
 
 2020/08/12
 
